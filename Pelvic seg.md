@@ -23,6 +23,7 @@
 
 ```bash
 pip install tensorflow==2.6.0 keras==2.6.0 opencv-python==4.5.5 numpy==1.19.5 scipy==1.7.1 matplotlib==3.4.3 scikit-learn==0.24.2 pandas==1.3.3 numba==0.54.1 keras-unet-collection==0.1.12
+```
 
 ## 실행 방법
 
